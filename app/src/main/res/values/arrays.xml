@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_toko">
+        <item>Cibiru</item>
+        <item>Cihampelas</item>
+        <item>Baleedah</item>
+        <item>Buah Batu</item>
+    </string-array>
+</resources>
